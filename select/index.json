@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "素顔のピクセル",
+  "base_artist": "乙宗 梢 (CV.花宮初奈)",
+  "createdAt": "2026-02-19T13:12:00.513121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素顔のピクセル",
+      "artist": "スリーズブーケ",
+      "has_synced": true,
+      "path": "select/01_素顔のピクセル_スリーズブーケ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素顔のピクセル",
+      "artist": "乙宗 梢 (CV.花宮初奈)",
+      "has_synced": false,
+      "path": "select/pl_01_素顔のピクセル_乙宗_梢_(CV.花宮初奈).txt"
+    }
+  ]
+}
